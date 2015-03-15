@@ -1,5 +1,6 @@
 require './test_helper'
 require './lib/anagram_finder'
+require 'pry'
 
 class AnagramFinderTest < Minitest::Test
 
